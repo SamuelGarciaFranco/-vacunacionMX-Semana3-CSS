@@ -1,4 +1,4 @@
-# -vacunacionMX-Semana3-CSS
+# vacunacionMX-Semana3-CSS
 Creación de una web con HTML y CSS
 Esta práctica pertenece al curso de LaunchX - Microsoft (Desarrollador FullStack)
 Para más información visítame en https://www.nanotech.com.mx/
