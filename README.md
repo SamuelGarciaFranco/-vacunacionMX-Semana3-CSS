@@ -1,5 +1,6 @@
 # vacunacionMX-Semana3-CSS
 Creación de una web con HTML y CSS
+
 Esta práctica pertenece al curso de LaunchX - Microsoft (Desarrollador FullStack)
 
 Live de la página: https://samuelgarciafranco.github.io/vacunacionMX-Semana3-CSS/
